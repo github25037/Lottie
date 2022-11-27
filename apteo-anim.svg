@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1157" height="812" viewBox="0 0 1157 812" fill="none">
+    <style>
+@keyframes lines_t { 0% { transform: translate(89.13px,103.537px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 20% { transform: translate(173.471995px,103.537px); } 100% { transform: translate(173.471995px,103.537px); } }
+@keyframes lines_o { 0% { opacity: 0; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 20% { opacity: 1; } 100% { opacity: 1; } }
+@keyframes a0_t { 0% { transform: translate(124.6809px,394.461939px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 20% { transform: translate(158.598px,99.9699px); } 100% { transform: translate(158.598px,99.9699px); } }
+@keyframes a0_o { 0% { opacity: 0; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 20% { opacity: 1; } 100% { opacity: 1; } }
+@keyframes a1_t { 0% { transform: translate(124.6809px,394.461947px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 20% { transform: translate(90.7638px,244.969px); } 100% { transform: translate(90.7638px,244.969px); } }
+@keyframes a1_o { 0% { opacity: 0; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 20% { opacity: 1; } 100% { opacity: 1; } }
+@keyframes a2_t { 0% { transform: translate(124.6809px,394.461953px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 20% { transform: translate(158.598px,403.3px); } 100% { transform: translate(158.598px,403.3px); } }
+@keyframes a2_o { 0% { opacity: 0; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 20% { opacity: 1; } 100% { opacity: 1; } }
+@keyframes a3_t { 0% { transform: translate(124.6809px,394.46197px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 20% { transform: translate(90.7638px,557.108px); } 100% { transform: translate(90.7638px,557.108px); } }
+@keyframes a3_o { 0% { opacity: 0; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 20% { opacity: 1; } 100% { opacity: 1; } }
+@keyframes a4_t { 0% { transform: translate(124.6809px,394.461961px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 20% { transform: translate(158.598px,688.954px); } 100% { transform: translate(158.598px,688.954px); } }
+@keyframes a4_o { 0% { opacity: 0; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 20% { opacity: 1; } 100% { opacity: 1; } }
+@keyframes box3_t { 0% { transform: translate(458.618px,517.282px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 20% { transform: translate(458.618px,173.282px); } 100% { transform: translate(458.618px,173.282px); } }
+@keyframes box3_o { 0% { opacity: 0; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 20% { opacity: 1; } 100% { opacity: 1; } }
+@keyframes a5_f { 0% { fill: #000000; } 100% { fill: #000000; } }
+@keyframes a6_f { 0% { fill: #717171; } 100% { fill: #717171; } }
+@keyframes box2_t { 0% { transform: translate(458.618px,518.93px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 20% { transform: translate(458.618px,346.93px); } 100% { transform: translate(458.618px,346.93px); } }
+@keyframes box2_o { 0% { opacity: 0; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 20% { opacity: 1; } 100% { opacity: 1; } }
+@keyframes a7_f { 0% { fill: #000000; } 100% { fill: #000000; } }
+@keyframes a8_f { 0% { fill: #717171; } 100% { fill: #717171; } }
+@keyframes box1_t { 0% { transform: translate(458.618px,517.567px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 20% { transform: translate(458.618px,517.567px); } 100% { transform: translate(458.618px,517.567px); } }
+@keyframes box1_o { 0% { opacity: 0; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 20% { opacity: 1; } 100% { opacity: 1; } }
+@keyframes a9_f { 0% { fill: #000000; } 100% { fill: #000000; } }
+@keyframes a10_f { 0% { fill: #717171; } 100% { fill: #717171; } }
+@keyframes c1_t { 0% { transform: translate(256.777px,203.409px) scale(0,0) translate(-35.6001px,-35.6001px); } 40% { transform: translate(256.777px,203.409px) scale(0,0) translate(-35.6001px,-35.6001px); animation-timing-function: cubic-bezier(0.845,-1.2,0.18,1.845); } 60% { transform: translate(256.777px,203.409px) scale(1,1) translate(-35.6001px,-35.6001px); } 100% { transform: translate(256.777px,203.409px) scale(1,1) translate(-35.6001px,-35.6001px); } }
+@keyframes c2_t { 0% { transform: translate(271.358px,400px) scale(0,0) translate(-35.6001px,-35.6001px); } 40% { transform: translate(271.358px,400px) scale(0,0) translate(-35.6001px,-35.6001px); animation-timing-function: cubic-bezier(0.845,-1.2,0.18,1.845); } 60% { transform: translate(271.358px,400px) scale(1,1) translate(-35.6001px,-35.6001px); } 100% { transform: translate(271.358px,400px) scale(1,1) translate(-35.6001px,-35.6001px); } }
+@keyframes c3_t { 0% { transform: translate(256.777px,634.268px) scale(0,0) translate(-35.6001px,-35.6001px); } 40% { transform: translate(256.777px,634.268px) scale(0,0) translate(-35.6001px,-35.6001px); animation-timing-function: cubic-bezier(0.845,-1.2,0.18,1.845); } 60% { transform: translate(256.777px,634.268px) scale(1,1) translate(-35.6001px,-35.6001px); } 100% { transform: translate(256.777px,634.268px) scale(1,1) translate(-35.6001px,-35.6001px); } }
+@keyframes a11_f { 0% { fill: #000000; } 100% { fill: #000000; } }
+    </style>
+    <g clip-path="url(#clip0_2_45)" transform="translate(578.5,406) translate(-578.5,-406)">
+        <rect width="1157" height="812" fill="white" transform="translate(578.5,406) translate(-578.5,-406)"/>
+        <g filter="none" transform="translate(751.429,385.79) translate(-751.429,-385.79)">
+            <path d="M391.298,-1.34123L1111.56,-1.34123L1111.56,739.211C1111.56,747.146,1105.29,753.579,1097.56,753.579L405.298,753.579C397.566,753.579,391.298,747.146,391.298,739.211L391.298,-1.34123Z" fill="white" filter="drop-shadow(5px 5px 20px rgba(0,0,0,0.50))" transform="translate(751.429,385.79) translate(-751.429,-385.79)"/>
+        </g>
+        <ellipse fill="#42549C" rx="44.9042" ry="44.9042" transform="translate(503.523,81.5623)"/>
+        <path d="M586.643,108.314L684.095,108.314" stroke="#E2E2F2" stroke-width="13" stroke-linecap="round" transform="translate(635.369,108.314) translate(-635.369,-108.314)"/>
+        <g id="lines" opacity="0" transform="translate(195.658,403.535) translate(-106.528,-299.998)" style="animation: 5s linear infinite both lines_t, 5s linear infinite both lines_o;">
+            <path d="M186.327,404.491L312.441,404.491M382.186,404.491L312.441,404.491M169.13,103.537L233.142,103.537L312.441,404.491" stroke="#E2E2F2" stroke-width="13" stroke-linecap="round" transform="translate(106.528,150.477) translate(-275.658,-254.014)"/>
+            <path d="M169.13,703.533L231.231,703.533L318.173,404.491" stroke="#E2E2F2" stroke-width="13" stroke-linecap="round" transform="translate(74.5215,450.475) translate(-243.651,-554.012)"/>
+            <path d="M186.327,404.491L312.441,404.491M382.186,404.491L312.441,404.491M169.13,103.537L233.142,103.537L312.441,404.491" stroke="#4A4FEF" stroke-width="2" stroke-linecap="round" stroke-dasharray="5 10" transform="translate(106.528,150.477) translate(-275.658,-254.014)"/>
+            <path d="M169.13,703.533L231.231,703.533L318.173,404.491" stroke="#4A4FEF" stroke-width="2" stroke-linecap="round" stroke-dasharray="5 10" transform="translate(74.5215,450.475) translate(-243.651,-554.012)"/>
+        </g>
+        <ellipse fill="white" stroke="#42549C" stroke-width="5" rx="39.0603" ry="39.0603" opacity="0" transform="translate(124.681,394.462)" style="animation: 5s linear infinite both a0_t, 5s linear infinite both a0_o;"/>
+        <ellipse fill="white" stroke="#42549C" stroke-width="5" rx="39.0603" ry="39.0603" opacity="0" transform="translate(124.681,394.462)" style="animation: 5s linear infinite both a1_t, 5s linear infinite both a1_o;"/>
+        <ellipse fill="white" stroke="#42549C" stroke-width="5" rx="39.0603" ry="39.0603" opacity="0" transform="translate(124.681,394.462)" style="animation: 5s linear infinite both a2_t, 5s linear infinite both a2_o;"/>
+        <ellipse fill="white" stroke="#42549C" stroke-width="5" rx="39.0603" ry="39.0603" opacity="0" transform="translate(124.681,394.462)" style="animation: 5s linear infinite both a3_t, 5s linear infinite both a3_o;"/>
+        <ellipse fill="white" stroke="#42549C" stroke-width="5" rx="39.0603" ry="39.0603" opacity="0" transform="translate(124.681,394.462)" style="animation: 5s linear infinite both a4_t, 5s linear infinite both a4_o;"/>
+        <g id="box3" opacity="0" transform="translate(760.527,594.67) translate(-301.909,-77.388)" style="animation: 5s linear infinite both box3_t, 5s linear infinite both box3_o;">
+            <g filter="none" transform="translate(301.909,77.388) translate(-760.527,-250.67)">
+                <rect width="603.818" height="154.776" rx="14" fill="white" filter="drop-shadow(5px 5px 10px rgba(0,0,0,0.50))" transform="translate(760.527,250.67) translate(-301.909,-77.388)"/>
+            </g>
+            <ellipse fill="#FCF1D8" rx="41.5603" ry="41.5603" transform="translate(78.322,76.687)"/>
+            <text fill="#000000" font-size="28" font-family="Arial" letter-spacing="0" word-spacing="0" stroke="none" font-weight="700" transform="translate(148.072,64.0251)" style="line-height: 16px; white-space: pre; animation: 5s linear infinite both a5_f;">Discount seekers</text>
+            <text fill="#717171" font-size="24" font-family="Arial" letter-spacing="0" word-spacing="0" stroke="none" font-weight="700" transform="translate(152.367,109.124)" style="line-height: 16px; white-space: pre; animation: 5s linear infinite both a6_f;">344 members</text>
+        </g>
+        <g id="box2" opacity="0" transform="translate(760.527,596.318) translate(-301.909,-77.388)" style="animation: 5s linear infinite both box2_t, 5s linear infinite both box2_o;">
+            <g filter="none" transform="translate(301.909,77.388) translate(-760.527,-424.318)">
+                <rect width="603.818" height="154.776" rx="14" fill="white" filter="drop-shadow(5px 5px 10px rgba(0,0,0,0.50))" transform="translate(760.527,424.318) translate(-301.909,-77.388)"/>
+            </g>
+            <ellipse fill="#E1F2EC" rx="41.5603" ry="41.5603" transform="translate(78.322,79.63)"/>
+            <text fill="#000000" font-size="28" font-family="Arial" letter-spacing="0" word-spacing="0" stroke="none" font-weight="700" transform="translate(148.072,61.377)" style="line-height: 16px; white-space: pre; animation: 5s linear infinite both a7_f;">High spenders</text>
+            <text fill="#717171" font-size="24" font-family="Arial" letter-spacing="0" word-spacing="0" stroke="none" font-weight="700" transform="translate(152.367,106.476)" style="line-height: 16px; white-space: pre; animation: 5s linear infinite both a8_f;">123 members</text>
+        </g>
+        <g id="box1" opacity="0" transform="translate(760.527,594.955) translate(-301.909,-77.388)" style="animation: 5s linear infinite both box1_t, 5s linear infinite both box1_o;">
+            <g filter="none" transform="translate(301.909,77.388) translate(-760.527,-594.955)">
+                <rect width="603.818" height="154.776" rx="14" fill="white" filter="drop-shadow(5px 5px 10px rgba(0,0,0,0.50))" transform="translate(760.527,594.955) translate(-301.909,-77.388)"/>
+            </g>
+            <ellipse fill="#FCE9E9" rx="41.5603" ry="41.5603" transform="translate(78.322,81.101)"/>
+            <text fill="#000000" font-size="28" font-family="Arial" letter-spacing="0" word-spacing="0" stroke="none" font-weight="700" transform="translate(148.072,65.74)" style="line-height: 16px; white-space: pre; animation: 5s linear infinite both a9_f;">Loyal cusomters</text>
+            <text fill="#717171" font-size="24" font-family="Arial" letter-spacing="0" word-spacing="0" stroke="none" font-weight="700" transform="translate(152.367,110.839)" style="line-height: 16px; white-space: pre; animation: 5s linear infinite both a10_f;">678 members</text>
+        </g>
+        <g id="c1" transform="translate(256.777,203.409) scale(0,0) translate(-35.6001,-35.6001)" style="animation: 5s linear infinite both c1_t;">
+            <ellipse fill="#FEF0DA" rx="35.6001" ry="35.6001" transform="translate(35.6001,35.6001)"/>
+            <ellipse fill="#FCA612" rx="14.5811" ry="14.5811" transform="translate(35.6001,35.6001) rotate(180) scale(-1,1)"/>
+        </g>
+        <g id="c2" transform="translate(271.358,400) scale(0,0) translate(-35.6001,-35.6001)" style="animation: 5s linear infinite both c2_t;">
+            <ellipse fill="#DBE4C9" rx="35.6001" ry="35.6001" transform="translate(35.6001,35.6001)"/>
+            <ellipse fill="#02A064" rx="14.5811" ry="14.5811" transform="translate(35.6001,35.6001) rotate(180) scale(-1,1)"/>
+        </g>
+        <g id="c3" transform="translate(256.777,634.268) scale(0,0) translate(-35.6001,-35.6001)" style="animation: 5s linear infinite both c3_t;">
+            <ellipse fill="#FCDCC7" rx="35.6001" ry="35.6001" transform="translate(35.6001,35.6001)"/>
+            <ellipse fill="#EE696A" rx="14.5811" ry="14.5811" transform="translate(35.6001,35.6001) rotate(180) scale(-1,1)"/>
+        </g>
+        <text fill="#000000" font-size="36" font-family="Arial" letter-spacing="0" word-spacing="0" stroke="none" font-weight="700" transform="translate(580.69,76.307)" style="line-height: 16px; white-space: pre; animation: 5s linear infinite both a11_f;">Segments</text>
+    </g>
+    <defs>
+        <filter id="filter0_d_2_45" x="354.298" y="-17" width="800.264" height="815.579" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+            <feOffset dx="3" dy="5"/>
+            <feGaussianBlur stdDeviation="20"/>
+            <feComposite in2="hardAlpha" operator="out"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2_45"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2_45" result="shape"/>
+        </filter>
+        <filter id="filter1_d_2_45" x="441.618" y="156.282" width="643.818" height="194.776" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur stdDeviation="10"/>
+            <feComposite in2="hardAlpha" operator="out"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2_45"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2_45" result="shape"/>
+        </filter>
+        <filter id="filter2_d_2_45" x="441.618" y="329.93" width="643.818" height="194.776" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur stdDeviation="10"/>
+            <feComposite in2="hardAlpha" operator="out"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2_45"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2_45" result="shape"/>
+        </filter>
+        <filter id="filter3_d_2_45" x="441.618" y="500.567" width="643.818" height="194.776" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur stdDeviation="10"/>
+            <feComposite in2="hardAlpha" operator="out"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2_45"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2_45" result="shape"/>
+        </filter>
+        <clipPath id="clip0_2_45">
+            <rect width="1157" height="812" fill="white" transform="translate(578.5,406) translate(-578.5,-406)"/>
+        </clipPath>
+    </defs>
+</svg>
